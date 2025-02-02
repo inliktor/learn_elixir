@@ -12,5 +12,5 @@ defmodule Mathematik do
   end
 end
 
-number = 21
+number = 5
 number |> Mathematik.factorial() |> IO.inspect()
